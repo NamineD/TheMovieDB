@@ -2,6 +2,8 @@
 
 Aplicación web simple que permite a los usuarios descubrir nuevas películas y buscarlas.
 
+[DEMO](https://namined.github.io/TheMovieDB/)
+
 ## ¿Cómo lo ejecuto en local? 🔧
 
 ```
