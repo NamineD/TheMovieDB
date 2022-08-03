@@ -1,0 +1,13 @@
+.card-text {
+    color: black;
+    font-size: 1rem;
+}
+
+#img-modal {
+    border: 0px !important;
+    cursor:default;
+}
+
+#star {
+    color: orange;
+}

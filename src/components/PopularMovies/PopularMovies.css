@@ -1,0 +1,12 @@
+.poster-path {
+    padding: 1rem;
+}
+
+.popular-movies {
+    color: black;
+    margin-top: 2rem;
+}
+
+.star {
+    color: orange;
+}

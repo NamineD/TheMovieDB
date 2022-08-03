@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(235, 226, 217);
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.container-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+

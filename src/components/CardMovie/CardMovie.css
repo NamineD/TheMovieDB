@@ -1,0 +1,5 @@
+
+  .poster-path img:hover {
+    border: 6px solid rgb(255, 115, 0) !important;
+    cursor: pointer;
+  }
